@@ -1,0 +1,8 @@
+Pages\MainPage.class
+Pages\ProductPages\ProductPage.class
+Pages\Common\FooterPage.class
+Driver\Driver.class
+Pages\Common\HeaderPage.class
+Pages\LoginPages\LoginPage.class
+Pages\BaseContentPage.class
+Pages\BasePage.class

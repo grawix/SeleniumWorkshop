@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: SmokeTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 32.807 s <<< FAILURE! - in SmokeTest
+openFadeShortSleeveTShirtProductPage(SmokeTest)  Time elapsed: 13.662 s  <<< FAILURE!
+org.junit.ComparisonFailure: Wrong title for page after opening Product page expected:<[]My Store> but was:<[Faded Short Sleeve T-shirts - ]My Store>
+	at SmokeTest.openFadeShortSleeveTShirtProductPage(SmokeTest.java:23)
+

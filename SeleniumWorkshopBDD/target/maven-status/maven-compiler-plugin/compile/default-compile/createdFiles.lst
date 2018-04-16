@@ -1,0 +1,13 @@
+Pages\MainPage.class
+Pages\ProductPages\AddingToCartPage.class
+Pages\CategoryPages\WomenCategoryPage.class
+Steps\Steps.class
+Pages\CategoryPages\DressesCategoryPage.class
+Pages\Common\HeaderPage.class
+Pages\BaseContentPage.class
+Pages\BasePage.class
+Pages\ProductPages\ProductPage.class
+Pages\Common\FooterPage.class
+Driver\Driver.class
+Pages\LoginPages\LoginPage.class
+Pages\CategoryPages\TShirtCategoryPage.class
